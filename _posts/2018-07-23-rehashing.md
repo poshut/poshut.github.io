@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why hashing hashes is bad"
-date: 2018-07-23 10:42:00 +0200
+date: 2018-07-23 22:42:00 +0200
 categories: cryptography, security
 ---
 
